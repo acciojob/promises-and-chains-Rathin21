@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+input{
+	margin:10px;
+	padding:5px;
+	border-radius:10px;
+}
+button{
+	margin:10px;
+	padding:5px 68px;
+	
+	border-radius:10px;
+	cursor:pointer;
+}
